@@ -7,5 +7,7 @@ http://jarvisitech.com/goodtogo/
 I will upload code as soon as possible
 
 Methog One  :-- Using  Google PageSpeed Insights API
+
+
 Method Two  :-- Using Phantom Js
 
