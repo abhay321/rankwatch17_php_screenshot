@@ -1,6 +1,6 @@
 # rankwatch17_php_screenshot
 Project Test
-////////////Live Url For Testing///////////////////
+////////////Live Url For Demo///////////////////
 
 http://jarvisitech.com/goodtogo/
 
