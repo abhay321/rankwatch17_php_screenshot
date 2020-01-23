@@ -2,7 +2,6 @@
 Project Test
 ////////////Live Url For Demo///////////////////
 
-http://jarvisitech.com/goodtogo/
 
 
 
