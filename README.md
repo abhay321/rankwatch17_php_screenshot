@@ -4,5 +4,9 @@ Project Test
 Methog One  :-- Using  Google PageSpeed Insights API
 
 
-Method Two  :-- Using Phantom Js
+Method Two  :-- Using Phantom JS
+
+Method Three  :-- Using Phantom JS
+
+
 
